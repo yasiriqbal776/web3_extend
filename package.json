@@ -1,0 +1,51 @@
+{
+    "_from": "web3_extend@^1.0.0",
+    "_id": "web3_extend@1.0.0",
+    "_inBundle": false,
+    "_integrity": "sha1-TL+JNDxJv+lqlpe6gc6eVoDwD6I=",
+    "_location": "/web3_extend",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "range",
+        "registry": true,
+        "raw": "web3_extend@^1.0.0",
+        "name": "web3_extend",
+        "escapedName": "web3_extend",
+        "rawSpec": "^1.0.0",
+        "saveSpec": null,
+        "fetchSpec": "^1.0.0"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/web3_extend/-/web3_extend-1.0.0.tgz",
+    "_shasum": "4cbf89343c49bfe96a9697ba81ce9e5680f00fa2",
+    "_spec": "web3_extend@^1.0.0",
+    "_where": "/Users/mac/Desktop/Projects/Server/carex_wallet_services",
+    "author": {
+        "name": "Yasir Iqbal",
+        "email": "yasiriqbal776@gmail.com"
+    },
+    "bugs": {
+        "url": "https://github.com/yasiriqbal776/web3_extend/issues"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+        "web3": "^0.15.1"
+    },
+    "deprecated": false,
+    "description": "Extension of web3 using JSON-RPC to access additional functions.",
+    "homepage": "https://github.com/yasiriqbal776/web3_extend/blob/master/README.md",
+    "license": "MIT",
+    "main": "index.js",
+    "name": "web3_extend",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yasiriqbal776/web3_extend.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}
